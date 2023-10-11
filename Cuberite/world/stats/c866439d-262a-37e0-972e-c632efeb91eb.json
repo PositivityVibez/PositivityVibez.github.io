@@ -1,0 +1,27 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"climb_one_cm" : 249,
+			"crouch_one_cm" : 273,
+			"cuberite:achievement.buildWorkBench" : 1,
+			"cuberite:achievement.mineWood" : 23,
+			"cuberite:achievement.openInventory" : 9,
+			"damage_dealt" : 330,
+			"damage_taken" : 20,
+			"drop" : 5,
+			"fall_one_cm" : 4597,
+			"interact_with_crafting_table" : 3,
+			"leave_game" : 2,
+			"play_one_minute" : 11419,
+			"sneak_time" : 150,
+			"sprint_one_cm" : 25384,
+			"time_since_death" : 11419,
+			"walk_on_water_one_cm" : 11912,
+			"walk_one_cm" : 31419,
+			"walk_under_water_one_cm" : 7069
+		}
+	}
+}
