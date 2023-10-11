@@ -5,3 +5,4 @@ Plugins can be found here:
 [https://cuberite.org/plugins/](Cuberite Plugins)
 ## I highly reccomend installing a login/auth plugin.
 **If a plugin isn't there, don't freak out. Ask me to spend a month porting it to Cuberite and I will!**
+(not made by me, dont ask me do port it lol)
